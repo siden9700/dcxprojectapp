@@ -25,7 +25,7 @@ Try these common fixes before contacting support:
 
 **How do I reset my password?**  
 Open **Sign in → Forgot password** and follow the email steps.  
-Still stuck? Email [support@farmsnexus.org](mailto:support@farmsnexus.com).
+Still stuck? Email [support@farmsnexus.com](mailto:support@farmsnexus.com).
 
 **Why can’t I sign in?**  
 Confirm your credentials, network, and that you’re on the latest app version.  
@@ -36,7 +36,7 @@ Use the **Report** option on the post/comment. Include any context that may help
 
 **Can I delete my account and data?**  
 Yes. Go to **Profile → Settings → Delete account** (if available)  
-or email [support@farmsnexus.org](mailto:support@farmsnexus.com).  
+or email [support@farmsnexus.com](mailto:support@farmsnexus.com).  
 We’ll guide you through verification and deletion.
 
 **What data does the app collect?**  
