@@ -25,7 +25,7 @@ Try these common fixes before contacting support:
 
 **How do I reset my password?**  
 Open **Sign in → Forgot password** and follow the email steps.  
-Still stuck? Email [support@farmsnexus.org](mailto:support@farmsnexus.org).
+Still stuck? Email [support@farmsnexus.org](mailto:support@farmsnexus.com).
 
 **Why can’t I sign in?**  
 Confirm your credentials, network, and that you’re on the latest app version.  
@@ -36,11 +36,11 @@ Use the **Report** option on the post/comment. Include any context that may help
 
 **Can I delete my account and data?**  
 Yes. Go to **Profile → Settings → Delete account** (if available)  
-or email [support@farmsnexus.org](mailto:support@farmsnexus.org).  
+or email [support@farmsnexus.org](mailto:support@farmsnexus.com).  
 We’ll guide you through verification and deletion.
 
 **What data does the app collect?**  
-See our [Privacy Policy](https://farmsnexus.org/privacy) for details on collection, use, and deletion.
+See our [Privacy Policy](https://github.com/siden9700/dcxprojectapp/blob/main/FarmsNexus_Privacy.md) for details on collection, use, and deletion.
 
 ---
 
@@ -71,7 +71,7 @@ See our [Privacy Policy](https://farmsnexus.org/privacy) for details on collecti
 
 We usually reply within **2–3 business days**.
 
-👉 [Email Support](mailto:support@farmsnexus.org)
+👉 [Email Support](mailto:support@farmsnexus.com)
 
 Include your device model, iOS version, and steps to reproduce the issue.
 
@@ -79,9 +79,9 @@ Include your device model, iOS version, and steps to reproduce the issue.
 
 ## Resources
 
-- [Privacy Policy](https://farmsnexus.org/privacy)  
-- [Website](https://farmsnexus.org)  
-- [Terms of Use](https://farmsnexus.org/terms) *(optional)*  
+- [Privacy Policy](https://github.com/siden9700/dcxprojectapp/blob/main/FarmsNexus_Privacy.md)  
+- [Website](https://farmsnexus.com)  
+- [Terms of Use](https://farmsnexus.com/terms) *(optional)*  
 
 ---
 
